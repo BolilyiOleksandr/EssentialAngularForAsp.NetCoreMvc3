@@ -1,0 +1,1 @@
+EssentialAngularForAsp.NetCoreMvc3
