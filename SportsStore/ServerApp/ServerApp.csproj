@@ -8,4 +8,9 @@
   <ItemGroup>
   </ItemGroup>
 
+  <ItemGroup>
+    <Content Remove="Properties\launchSettings.json" />
+    <Content Remove="appsettings.json" />
+    <Content Remove="global.json" />
+  </ItemGroup>
 </Project>
