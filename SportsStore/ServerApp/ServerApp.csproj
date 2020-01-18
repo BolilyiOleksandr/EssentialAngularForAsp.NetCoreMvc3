@@ -13,4 +13,8 @@
     <Content Remove="appsettings.json" />
     <Content Remove="global.json" />
   </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.SpaServices.Extensions" Version="3.0.0" />
+  </ItemGroup>
 </Project>
